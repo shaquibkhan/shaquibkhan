@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End development
 - 🌱 Work as a UI developer
 - 💞️ I’m looking to collaborate on open source network
-- 📫 How to reach me @shaquibtwt
+- 📫 How to reach me @shaQuibtwt
 
 <!---
 shaquibkhan/shaquibkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
