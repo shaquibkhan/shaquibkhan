@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shaquibkhan
 - 👀 I’m interested in Front End development
-- 🌱 I’m currently learning Angularand Javascript
+- 🌱 Work as a UI developer
 - 💞️ I’m looking to collaborate on open source network
-- 📫 How to reach me @shakhkhan69
+- 📫 How to reach me @shaquibtwt
 
 <!---
 shaquibkhan/shaquibkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
